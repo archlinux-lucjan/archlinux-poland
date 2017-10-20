@@ -17,7 +17,7 @@ source=("git+https://github.com/juliagoda/qfaktury")
 md5sums=('SKIP') 
 
 pkgver() {
-       cd qfaktury
+       cd ${_gitname}
        git describe --tags --long | sed 's/^v//;s/-/./g'
        }
 

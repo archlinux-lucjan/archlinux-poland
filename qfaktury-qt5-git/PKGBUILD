@@ -13,7 +13,7 @@ arch=('i686' 'x86_64')
 license=('GPL') 
 conflicts=('qfaktury') 
 provides=('qfaktury') 
-source=("git+https://github.com/sirlucjan/qfaktury") 
+source=("git+https://github.com/juliagoda/qfaktury") 
 md5sums=('SKIP') 
 
 pkgver() {

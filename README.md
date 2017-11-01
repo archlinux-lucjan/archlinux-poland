@@ -1,6 +1,8 @@
 # Kolekcja PKGBUILD-ów dla polskiego użytkownika Arch Linux
 
-- qfaktury-qt-git
+- qfaktury-kf5-git
+
+- qfaktury-qt5-git
 
 # Download:
 

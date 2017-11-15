@@ -5,7 +5,6 @@ pkgbase = qfaktury-kf5-git
 	pkgver = 0.7.0.4.gb3f9472
 	pkgrel = 1
 	url = https://github.com/juliagoda/qfaktury
-	arch = i686
 	arch = x86_64
 	license = GPL
 	makedepends = git

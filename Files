@@ -1,9 +1,9 @@
 .
 ├── Files
-├── README.md
 ├── qfaktury-kf5-git
 │   └── PKGBUILD
-└── qfaktury-qt5-git
-    └── PKGBUILD
+├── qfaktury-qt5-git
+│   └── PKGBUILD
+└── README.md
 
 2 directories, 4 files

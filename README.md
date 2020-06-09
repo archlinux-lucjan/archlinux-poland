@@ -1,5 +1,5 @@
-# Kolekcja PKGBUILD-ów dla polskiego użytkownika Arch Linux
-# UWAGA: Program qfaktury nie jest już rozwijany. 
+# UWAGA: Program qfaktury nie jest już rozwijany..
+# Zgłoszenia błędów nie będą rozpatrywane. 
 
 - qfaktury-kf5-git
 
